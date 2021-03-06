@@ -30,10 +30,10 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/3jTqeiW.gif)
 
 ### Creating & Upload Instgram
-![](https://i.imgur.com/bzzOGlx.gif)
+<img src="./GIFs/CreateIns.gif" width="400px">
 
 ### Refresh & load more
-![](https://i.imgur.com/JKQRC2C.gif)
+<img src="./GIFs/Refresh.gif" width="400px">
 
 ## Some Notes:
 The "Load More" function might not be that obvious because I really don't want to manually create 20+ instgrams to make it obvious; Right now I only uploaded 5 instgrams, but the function is working. The refresh is also really fast because it is a dedicated server.
